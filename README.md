@@ -1,7 +1,5 @@
 # HEALTH TRACKER PROGRAM
 
-<a href="https://www.reliancegeneral.co.in/Insurance/Knowledge-Center/Blogs/Understand-the-Benefits-and-Uses-of-Fitness-Trackers--.aspx#:~:text=A%20fitness%20tracker%20lets%20you%20watch%20and%20record%20your%20heart,exercise%20more%20and%20sleep%20better.&text=Regular%20use%20of%20fitness%20tracker,workouts%20and%20makes%20them%20achievable.">IMPORTANCE</a>
-
 You do get a sense of direction and can adapt your everyday activities by keeping track of your progress. But in addition to that, it also operates on a psychological level and significantly boosts your motivation and self-confidence.
 
 ## 🎯Objective
