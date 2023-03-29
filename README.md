@@ -8,7 +8,7 @@ Health tracker programs are designed to monitor and track an individual's health
 
 ## 💡Features
 
--gather information from the user about their daily routine 
+- gather information from the user about their daily routine 
 - user may input calorie and fiber intake and program should determine if the calorie-fiber ratio is proper
 - track/remind water intake
 - user may retrieve assessment of the intake from the information inputted on the program
