@@ -6,7 +6,7 @@ You do get a sense of direction and can adapt your everyday activities by keepin
 
 Health tracker programs are designed to monitor and track an individual's health-related activities and data, such as physical activity, diet,and sleep patterns. The significance of health tracker programs lies in their ability to provide a comprehensive overview of an individual's health status, which can help them make informed decisions about their health and lifestyle.
 
-## Features
+## 💡Features
 
 - gather information from the user about their daily routine
 - user may input calorie and fiber intake and program should determine if the calorie-fiber ratio is proper
