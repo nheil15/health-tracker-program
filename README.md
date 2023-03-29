@@ -1,4 +1,4 @@
-# HEALT TRACKER PROGRAM
+# HEALTH TRACKER PROGRAM
 
 You do get a sense of direction and can adapt your everyday activities by keeping track of your progress. But in addition to that, it also operates on a psychological level and significantly boosts your motivation and self-confidence.
 
